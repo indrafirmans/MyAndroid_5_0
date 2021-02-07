@@ -4,4 +4,5 @@
     <string name="buttonMenu1">Android Studio</string>
     <string name="buttonMenu2">Kotlin Variables</string>
     <string name="buttonMenu3">Kotlin Colletions</string>
+    <string name="buttonMenu4">Kotlin Control Flow</string>
 </resources>
