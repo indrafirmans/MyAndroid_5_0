@@ -22,5 +22,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, KotlnActivity::class.java)
             startActivity(intent)
         }
+
+        val buttonMenu3 = findViewById<Button>(R.id.buttonMenu3)
+        buttonMenu3.setOnClickListener{
+            val intent = Intent(this, CollectionsActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
