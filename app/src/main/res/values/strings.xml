@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAndroid_5_0</string>
+    <string name="buttonPressMe">Press me</string>
+    <string name="buttonMenu1">Android Studio</string>
+    <string name="buttonMenu2">Kotlin Variables</string>
+    <string name="buttonMenu3">Kotlin Colletions</string>
+</resources>
