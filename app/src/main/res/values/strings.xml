@@ -2,7 +2,9 @@
     <string name="app_name">MyAndroid_5_0</string>
     <string name="buttonPressMe">Press me</string>
     <string name="buttonMenu1">Android Studio</string>
-    <string name="buttonMenu2">Kotlin Variables</string>
-    <string name="buttonMenu3">Kotlin Colletions</string>
-    <string name="buttonMenu4">Kotlin Control Flow</string>
+    <string name="buttonMenu2">Variables</string>
+    <string name="buttonMenu3">Colletions</string>
+    <string name="buttonMenu4">Control Flow</string>
+    <string name="buttonMenu5">Function</string>
+    <string name="buttonMenu6">Class Object</string>
 </resources>

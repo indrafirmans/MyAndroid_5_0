@@ -34,5 +34,17 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, ControlFlowActivity::class.java)
             startActivity(intent)
         }
+
+        val buttonMenu5 = findViewById<Button>(R.id.buttonMenu5)
+        buttonMenu5.setOnClickListener{
+            val intent = Intent(this, FunctionActivity::class.java)
+            startActivity(intent)
+        }
+
+        val buttonMenu6 = findViewById<Button>(R.id.buttonMenu6)
+        buttonMenu6.setOnClickListener{
+            val intent = Intent(this, ClassObjectsActivity::class.java)
+            startActivity(intent)
+        }
     }
 }
